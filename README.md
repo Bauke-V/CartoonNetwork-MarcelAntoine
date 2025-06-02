@@ -1,7 +1,6 @@
-# Cartoon Network? 
-### Reconstructing Marcel Antoine's Cultural Context through Named Entity Recognition and Network Analysis
+# Reconstructing Marcel Antoine's Cultural Context through Named Entity Recognition and Network Analysis
 
-This repository contains all materials related to the Master's thesis project on the Belgian cartoonist **Marcel Antoine** (active in the 1930s), exploring how digital methods, specifically **Named Entity Recognition (NER)** and **network visualisation**, can be used to reconstruct fragmented historical cultural contexts from digitised newspaper data.
+This repository contains all materials related to the Master's thesis project on the Belgian cartoonist **Marcel Antoine** ( mostly active in the 1930s), exploring how digital methods, specifically **Named Entity Recognition (NER)** and **network visualisation**, can be used to reconstruct fragmented historical cultural contexts from digitised newspaper data.
 
 ---
 
@@ -96,9 +95,9 @@ Raw and cleaned article data used throughout the project.
 
 ---
 
-## About the Thesis
+## About the project
 
-This repository supports the Master’s thesis *"Reconstructing Marcel Antoine’s Cultural Context with NER and Network Analysis"*, submitted in 2025. The project explores how modern NLP and data visualisation tools can support historical inquiry into lesser-known figures using digitised, unstructured sources.
+This repository supports the Master’s thesis *"Cartoon network? Reconstructing Marcel Antoine’s Cultural Context with NER and Network Analysis"*, submitted in 2025. The project explores how modern NLP and data visualisation tools can support historical inquiry into lesser-known figures using digitised, unstructured sources.
 
 
 
